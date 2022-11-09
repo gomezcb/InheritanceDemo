@@ -1,0 +1,15 @@
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/bin/Debug/net5.0/InheritanceDemo.deps.json
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/bin/Debug/net5.0/InheritanceDemo.runtimeconfig.json
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/bin/Debug/net5.0/InheritanceDemo.runtimeconfig.dev.json
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/bin/Debug/net5.0/InheritanceDemo.dll
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/bin/Debug/net5.0/ref/InheritanceDemo.dll
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/bin/Debug/net5.0/InheritanceDemo.pdb
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.csproj.AssemblyReference.cache
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.AssemblyInfoInputs.cache
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.AssemblyInfo.cs
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.csproj.CoreCompileInputs.cache
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.dll
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/obj/Debug/net5.0/ref/InheritanceDemo.dll
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.pdb
+/Users/carlosgomez/Projects/InheritanceDemo/InheritanceDemo/obj/Debug/net5.0/InheritanceDemo.genruntimeconfig.cache
